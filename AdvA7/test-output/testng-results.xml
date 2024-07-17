@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Report generation]]>
+    </line>
+    <line>
+      <![CDATA[script4]]>
+    </line>
+    <line>
+      <![CDATA[Test Script Excution Stared]]>
+    </line>
+    <line>
+      <![CDATA[Test Script Passed]]>
+    </line>
+    <line>
+      <![CDATA[Report]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-07-15T14:41:12 IST" name="Default suite" finished-at="2024-07-15T14:41:31 IST" duration-ms="19439">
+    <groups>
+      <group name="campaigns">
+        <method signature="Script4_Test.script4()[pri:0, instance:scripts_Vtiger.Script4_Test@5fbdfdcf]" name="script4" class="scripts_Vtiger.Script4_Test"/>
+      </group> <!-- campaigns -->
+    </groups>
+    <test started-at="2024-07-15T14:41:12 IST" name="Default test" finished-at="2024-07-15T14:41:31 IST" duration-ms="19439">
+      <class name="scripts_Vtiger.Script4_Test">
+        <test-method is-config="true" signature="beforeSuite()[pri:0, instance:scripts_Vtiger.Script4_Test@5fbdfdcf]" started-at="2024-07-15T14:41:12 IST" name="beforeSuite" finished-at="2024-07-15T14:41:12 IST" duration-ms="299" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Report generation]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:scripts_Vtiger.Script4_Test@5fbdfdcf]" started-at="2024-07-15T14:41:12 IST" name="beforeClass" finished-at="2024-07-15T14:41:18 IST" duration-ms="5783" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:scripts_Vtiger.Script4_Test@5fbdfdcf]" started-at="2024-07-15T14:41:18 IST" name="beforeMethod" finished-at="2024-07-15T14:41:21 IST" duration-ms="3615" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void scripts_Vtiger.Script4_Test.script4() throws org.apache.poi.EncryptedDocumentException,java.io.IOException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[script4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="script4()[pri:0, instance:scripts_Vtiger.Script4_Test@5fbdfdcf]" started-at="2024-07-15T14:41:21 IST" name="script4" finished-at="2024-07-15T14:41:27 IST" duration-ms="5996" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Test Script Excution Stared]]>
+            </line>
+            <line>
+              <![CDATA[Test Script Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- script4 -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:scripts_Vtiger.Script4_Test@5fbdfdcf]" started-at="2024-07-15T14:41:27 IST" name="afterMethod" finished-at="2024-07-15T14:41:31 IST" duration-ms="3795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:scripts_Vtiger.Script4_Test@5fbdfdcf]" started-at="2024-07-15T14:41:31 IST" name="afterClass" finished-at="2024-07-15T14:41:31 IST" duration-ms="225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method is-config="true" signature="afterSuite()[pri:0, instance:scripts_Vtiger.Script4_Test@5fbdfdcf]" started-at="2024-07-15T14:41:31 IST" name="afterSuite" finished-at="2024-07-15T14:41:32 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Report]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- scripts_Vtiger.Script4_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
