@@ -34,6 +34,6 @@ public class Script1_Test extends BaseClass{
 		op.getSaveButton().click();
 		assertEquals(driver.getTitle(), "Administrator - Organizations - vtiger CRM 5 - Commercial Open Source CRM","not matching");
 		Thread.sleep(2000);
-		//sa.assertAll();
+		
 	}
 }

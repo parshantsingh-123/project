@@ -3,17 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="scripts_Vtiger.Script3">
+      <class name="scripts_Vtiger.Script2_Test">
         <methods>
+          <include name="script2"/>
           <include name="beforeClass"/>
-          <include name="script3"/>
-          <include name="beforeSuite"/>
-          <include name="afterSuite"/>
           <include name="beforeMethod"/>
-          <include name="afterMethod"/>
           <include name="afterClass"/>
+          <include name="beforeSuite"/>
+          <include name="afterMethod"/>
+          <include name="afterSuite"/>
         </methods>
-      </class> <!-- scripts_Vtiger.Script3 -->
+      </class> <!-- scripts_Vtiger.Script2_Test -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

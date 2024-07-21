@@ -1,6 +1,6 @@
 package genericlib;
 /**
- * @author Chandana N
+ * @author PARSHANT N
  */
 import java.util.Random;
 

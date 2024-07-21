@@ -1,6 +1,6 @@
 package genericlib;
 /**
- * @author Chandana N
+ * @author PARSHANT 
  */
 public class IConstant {
 /**

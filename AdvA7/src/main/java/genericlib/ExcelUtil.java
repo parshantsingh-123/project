@@ -1,6 +1,6 @@
 package genericlib;
 /**
- * @author Chandana N
+ * @author  PARSHANT
  */
 import java.io.FileInputStream;
 import java.io.IOException;
